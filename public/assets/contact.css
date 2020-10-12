@@ -1,0 +1,49 @@
+/*Heading*/
+h1{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    height: 75px;
+    padding-top: 10px;
+}
+
+/*Background Image*/
+#bg{
+    background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
+    background-size: cover;
+}
+
+/*Email form characteristics*/
+.row{
+    display: block;
+    margin: 0 auto;
+}
+
+.contact-form{
+    background:rgba(0, 0, 0, .4);
+    color: white;
+    margin-top: 50px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px rgb(202, 200, 200);
+}
+
+h2{
+    text-align: center;
+}
+
+.submit{
+    display: block;
+    margin: 0 auto;
+}
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+/*media link style*/
+#github,
+#linkedin,
+#resume {
+    background-color: darkslategray;
+    border: darkslategray;
+}

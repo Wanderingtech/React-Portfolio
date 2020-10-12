@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "whether the weather",
+        "github": "https://wanderingtech.github.io/Whether-the-Weather/",
+        "live": "https://wanderingtech.github.io/Whether-the-Weather/",
+        "description": "A weather and 5 day forecast tool. Works on API calls and
+        local storage.",
+        "screenshot": "/assets/weatherapp.png"
+    },
+    {
+        "id": 2,
+        "title": "Day Planner",
+        "github": "https://wanderingtech.github.io/Day-Planner/",
+        "live": "https://wanderingtech.github.io/Day-Planner/",
+        "description": "Project using momentJS, JavaScript, JQuery",
+        "screenshot": "/assets/planner snapshot.png"
+    },
+    {
+        "id": 3,
+        "title": "Project 1-Contact My Reps",
+        "github": "https://wanderingtech.github.io/project1contactmyreps/",
+        "live": "https://wanderingtech.github.io/project1contactmyreps/",
+        "description": "Collaborative project with classmates. Employing multiple APIs,
+        Materialize framework, and use of promises to run code smoothly",
+        "screenshot": "/assets/OpenPage.png"
+    },
+    {
+        "id": 4,
+        "title": "Project 2-Quote Goat",
+        "github": "https://github.com/Wanderingtech/QuoteGOAT",
+        "live": "https://github.com/Wanderingtech/QuoteGOAT",
+        "description": "Project #2 A quote posting/management database with personal
+        login",
+        "screenshot": "/assets/login.png"
+    },
+    {
+        "id": 5,
+        "title": "Employee Tracker",
+        "github": "https://wanderingtech.github.io/CLI-Employee-Tracker/",
+        "live": "https://wanderingtech.github.io/CLI-Employee-Tracker/",
+        "description": "A command line application to add, update, and view employee
+        information",
+        "screenshot": "/assets/employeejs.png"
+    },
+    {
+        "id": 6,
+        "title": "Note Taker",
+        "github": "https://wanderingtech.github.io/CLI-Note-Taker/",
+        "live": "https://safe-wave-26435.herokuapp.com/",
+        "description": "An application that can be used to write, save, and delete notes.
+        This application uses an express backend and saves and retrieves
+        note data from a JSON file.",
+        "screenshot": "/assets/deployednote.png"
+    }
+]

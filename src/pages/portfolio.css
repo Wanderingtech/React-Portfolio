@@ -1,0 +1,40 @@
+/*Heading*/
+h1{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    height: 75px;
+    padding-top: 10px;
+}
+
+/*Background Image*/
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
+    background-size: cover;
+}
+
+/*Contains the cards*/
+.container{
+    width: auto;
+}
+
+
+.projects{
+    background-color: rgb(162, 240, 214);
+    text-align: center;
+    color: darkslategray;
+    box-shadow: 0px 0px 10px 3px rgb(245, 244, 244);
+    padding-bottom: 15px;
+}
+
+/*Buttton style*/
+.btn{
+    background-color: darkslategray;
+    border: darkslategray;
+}
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+

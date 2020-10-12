@@ -1,0 +1,30 @@
+/*Heading*/
+h1{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    height: 75px;
+    padding-top: 10px;
+}
+
+/*Background Image*/
+#bg{
+background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
+background-size: cover;
+}
+
+/*Profile Image*/
+img{
+    border-radius: 8px;
+    max-inline-size: 300px;
+}
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+/*Buttton style*/
+.btn{
+    background-color: darkslategray;
+    border: darkslategray;
+}

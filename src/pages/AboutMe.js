@@ -1,4 +1,5 @@
 import React from 'react';
+import './index.css';
 function AboutMe(){
     return(
         <div className="container">
@@ -29,5 +30,5 @@ function AboutMe(){
         </div>
       </div>
     )
-    export default AboutMe
 }
+export default AboutMe
