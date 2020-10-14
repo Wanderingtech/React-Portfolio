@@ -4,8 +4,7 @@
         "title": "whether the weather",
         "github": "https://wanderingtech.github.io/Whether-the-Weather/",
         "live": "https://wanderingtech.github.io/Whether-the-Weather/",
-        "description": "A weather and 5 day forecast tool. Works on API calls and
-        local storage.",
+        "description": "Weather & 5 day forecast tool using API calls and local storage.",
         "screenshot": "/assets/weatherapp.png"
     },
     {
@@ -21,8 +20,7 @@
         "title": "Project 1-Contact My Reps",
         "github": "https://wanderingtech.github.io/project1contactmyreps/",
         "live": "https://wanderingtech.github.io/project1contactmyreps/",
-        "description": "Collaborative project with classmates. Employing multiple APIs,
-        Materialize framework, and use of promises to run code smoothly",
+        "description": "Collaborative project with classmates. Employing multiple APIs,Materialize framework, and use of promises to run code smoothly",
         "screenshot": "/assets/OpenPage.png"
     },
     {
@@ -30,8 +28,7 @@
         "title": "Project 2-Quote Goat",
         "github": "https://github.com/Wanderingtech/QuoteGOAT",
         "live": "https://github.com/Wanderingtech/QuoteGOAT",
-        "description": "Project #2 A quote posting/management database with personal
-        login",
+        "description": "Project #2 A quote posting/management database with personal login",
         "screenshot": "/assets/login.png"
     },
     {
@@ -39,8 +36,7 @@
         "title": "Employee Tracker",
         "github": "https://wanderingtech.github.io/CLI-Employee-Tracker/",
         "live": "https://wanderingtech.github.io/CLI-Employee-Tracker/",
-        "description": "A command line application to add, update, and view employee
-        information",
+        "description": "A command line application to add, update, and view employee information",
         "screenshot": "/assets/employeejs.png"
     },
     {
@@ -48,9 +44,7 @@
         "title": "Note Taker",
         "github": "https://wanderingtech.github.io/CLI-Note-Taker/",
         "live": "https://safe-wave-26435.herokuapp.com/",
-        "description": "An application that can be used to write, save, and delete notes.
-        This application uses an express backend and saves and retrieves
-        note data from a JSON file.",
+        "description": "An application that can be used to write, save, and delete notes.This application uses an express backend and saves and retrieves note data from a JSON file.",
         "screenshot": "/assets/deployednote.png"
     }
 ]
