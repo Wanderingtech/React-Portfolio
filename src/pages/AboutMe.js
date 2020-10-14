@@ -6,7 +6,7 @@ function AboutMe(){
         <div className="row">
           <div className="w-75 mx-auto">
             <div className="card">
-              <img src="/public/assets/bioprofile.jpg" className="card-image-top-fluid" alt="Picture of Heather"></img>
+              <img src="/assets/bioprofile.jpg" className="card-image-top-fluid" alt="Picture of Heather"></img>
               <div className="card-body" id="aboutMe">
                 <h5 className="card-title">About Me!</h5>
                 <p className="card-text">I've worked in surgery for 13 years. This is the year I broke out,

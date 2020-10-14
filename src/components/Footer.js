@@ -1,7 +1,7 @@
 import React from 'react';
 function Footer(){
     return(
-        <footer>
+        <footer id= "footer">
         <div className="card text-center">
           <div className="card-header" id="footerHeader">
             Check me out

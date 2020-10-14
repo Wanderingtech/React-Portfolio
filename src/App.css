@@ -2,3 +2,7 @@
   background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
 background-size: cover;
 }
+#footer #nav{
+  background-color: rgb(162, 240, 214);
+  color: darkslategray;
+}

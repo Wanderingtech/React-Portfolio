@@ -3,7 +3,7 @@ function Header() {
   return (
     <header>
       <h1>Heather Stolz</h1>
-      <nav className="navbar navbar-expand-sm navbar-light bg-light">
+      <nav className="navbar navbar-expand-sm navbar-light bg-light" id= "nav">
         <button
           className="navbar-toggler"
           type="button"
